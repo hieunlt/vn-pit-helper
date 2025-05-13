@@ -8,6 +8,9 @@ Vietnamese online tax portal.
 Notice that this tool only works with Vietnamese taxpayers and all XML files must use the VND for all amounts of money
 stated.
 
+**IMPORTANT**: Started from April 2025, this tool has become obsolete, please use the official helper provided in the Tax 
+portal to consolidate your PIT certificates and pre-fill your tax papers
+
 # Disclaimer
 
 ALWAYS check for the end result against your original tax certificates.
